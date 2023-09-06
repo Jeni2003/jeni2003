@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML,CSS**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to reach me: jeniselvam078@gmail.com</h3>
 <p align="left">
 </p>
 
